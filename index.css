@@ -99,7 +99,7 @@ button{
     margin: 62px 192px 60px;
     justify-content: space-between;
 }
-p{
+.lower-inner-container p{
     font-family: 'Inter';
     font-weight: 400;
     font-size: 20px;
